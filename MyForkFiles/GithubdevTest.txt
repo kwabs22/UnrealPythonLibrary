@@ -1,4 +1,5 @@
 For Highlighting Lines of in the code - in dev share --> Permalink in Markdown
+or copy dev link and change .dev to .com 
 
 Figure Out how libraries for python work
 Figure Out how extensions work
